@@ -1,2 +1,4 @@
 # Dimensionality-Reduction-Pipeline
-In this project, I utilize Principal Component Analysis to reduce the dimensioanlity of a Wheat Kernel multivariate dataset using the Support Vector Machine Learning Model. I preprocessed the data, scaled it using StandardScaler, tuned hyperparamters, and finally visualized the results. In the second part, I created a pipeline for the K-means Clustering algorithm.
+
+In this project, I utilized Principal Component Analysis (PCA) to reduce the dimensionality of a Wheat Kernel multivariate dataset and applied a Support Vector Machine (SVM) learning model. The process involved data preprocessing, scaling with StandardScaler, hyperparameter tuning, and result visualization. Additionally, I created a pipeline for the K-means clustering algorithm.
+
